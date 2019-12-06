@@ -1,0 +1,16 @@
+1. What is the (let) keyword used for in JavaScript?
+
+Let is used to define a variable. 
+
+let helloString = 'Hello';
+
+2. What is the (const) keyword used for in JavaScript?
+
+Const is used to define a variable that cannot be changed later
+in the program.
+
+const pi = 3.14; 
+
+pi = 2.34; 
+
+Output: TypeError
